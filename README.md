@@ -1,4 +1,5 @@
-Project Overview
+Project Overview:
+
 This project is a simple machine learning application built using the Titanic dataset from Kaggle.
 The goal of the project is to predict whether a passenger survived or not based on basic details like age, gender, class, and fare.
 
